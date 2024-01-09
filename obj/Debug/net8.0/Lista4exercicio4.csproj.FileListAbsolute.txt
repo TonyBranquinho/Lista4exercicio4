@@ -1,0 +1,14 @@
+C:\temp\ws-c#orientadoobjeto\Lista4exercicio4\Lista4exercicio4\bin\Debug\net8.0\Lista4exercicio4.exe
+C:\temp\ws-c#orientadoobjeto\Lista4exercicio4\Lista4exercicio4\bin\Debug\net8.0\Lista4exercicio4.deps.json
+C:\temp\ws-c#orientadoobjeto\Lista4exercicio4\Lista4exercicio4\bin\Debug\net8.0\Lista4exercicio4.runtimeconfig.json
+C:\temp\ws-c#orientadoobjeto\Lista4exercicio4\Lista4exercicio4\bin\Debug\net8.0\Lista4exercicio4.dll
+C:\temp\ws-c#orientadoobjeto\Lista4exercicio4\Lista4exercicio4\bin\Debug\net8.0\Lista4exercicio4.pdb
+C:\temp\ws-c#orientadoobjeto\Lista4exercicio4\Lista4exercicio4\obj\Debug\net8.0\Lista4exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-c#orientadoobjeto\Lista4exercicio4\Lista4exercicio4\obj\Debug\net8.0\Lista4exercicio4.AssemblyInfoInputs.cache
+C:\temp\ws-c#orientadoobjeto\Lista4exercicio4\Lista4exercicio4\obj\Debug\net8.0\Lista4exercicio4.AssemblyInfo.cs
+C:\temp\ws-c#orientadoobjeto\Lista4exercicio4\Lista4exercicio4\obj\Debug\net8.0\Lista4exercicio4.csproj.CoreCompileInputs.cache
+C:\temp\ws-c#orientadoobjeto\Lista4exercicio4\Lista4exercicio4\obj\Debug\net8.0\Lista4exercicio4.dll
+C:\temp\ws-c#orientadoobjeto\Lista4exercicio4\Lista4exercicio4\obj\Debug\net8.0\refint\Lista4exercicio4.dll
+C:\temp\ws-c#orientadoobjeto\Lista4exercicio4\Lista4exercicio4\obj\Debug\net8.0\Lista4exercicio4.pdb
+C:\temp\ws-c#orientadoobjeto\Lista4exercicio4\Lista4exercicio4\obj\Debug\net8.0\Lista4exercicio4.genruntimeconfig.cache
+C:\temp\ws-c#orientadoobjeto\Lista4exercicio4\Lista4exercicio4\obj\Debug\net8.0\ref\Lista4exercicio4.dll
